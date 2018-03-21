@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-microservice-currency-conversion
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: George.Rosario
+Implementation-Vendor-Id: com.in28minutes.springboot.microservice.exam
+ ple.currency-conversion
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ microservice-currency-conversion/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
